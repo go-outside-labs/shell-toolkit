@@ -23,5 +23,5 @@ tmux attach-session -t my_session
 * Reload a tmux config file:
 
 ```
-$ tmux source-file ~/.tmux.conf
+tmux source-file ~/.tmux.conf
 ```
