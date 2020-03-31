@@ -1,6 +1,6 @@
 # Dotfiles, Shellscripts, and other scripts 
 
-![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)
+![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) 
 
 * [bash scripts](https://github.com/bt3gl/Resources-Shell_Scripts_and_Dotfiles/tree/master/shell_scripts).
 * [awk](https://github.com/bt3gl/Resources-Shell_Scripts_and_Dotfiles/tree/master/awk).
