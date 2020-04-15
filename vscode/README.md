@@ -21,3 +21,11 @@
 * Simple React Snippets
 * Commitizen Support
 * styled-components
+
+## Useful Shortcuts
+
+* Open the terminal with:
+
+```
+^` 
+```
