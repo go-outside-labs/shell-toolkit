@@ -29,3 +29,8 @@
 ```
 ^` 
 ```
+* add this alias to your shell profile (e.g. `~/.zshrc`):
+
+```
+alias code="open -a 'Visual Studio Code'"
+```
