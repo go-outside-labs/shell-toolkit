@@ -1,0 +1,40 @@
+export PATH=$HOME/bin:/usr/local/bin:$PATH:/Users/mia/Library/Python/2.7/bin
+export ZSH="/Users/mia/.oh-my-zsh"
+
+ZSH_THEME="robbyrussell"
+
+
+###########
+# PLUGINS ✨
+############
+
+plugins=(git)
+source $ZSH/oh-my-zsh.sh
+
+
+#################
+# EXPORT OPTIONS
+################
+
+export GREP_OPTIONS='--color=auto'
+export GREP_COLOR='1;31' # green for matches
+export CLICOLOR=230
+export HISTCONTROL=ignoredups
+
+
+########
+# ALIAS
+#########
+
+alias zshconfig="mate ~/.zshrc"
+alias ohmyzsh="mate ~/.oh-my-zsh"
+alias code="open -a 'Visual Studio Code'"
+
+alias gc="git commit"
+alias ga="git add"
+alias gp="git push"
+alias gp="git pull"
+
+alias k="kubectl"
+
+
