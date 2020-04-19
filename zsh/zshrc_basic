@@ -1,3 +1,7 @@
+#########
+Exports ✨
+#########
+
 export PATH=$HOME/bin:/usr/local/bin:$PATH:/Users/mia/Library/Python/2.7/bin
 export PATH="$HOME/go/bin/:$PATH"
 
@@ -7,9 +11,13 @@ export KUBECTX_CURRENT_BGCOLOR=$(tput setab 5)
 
 export ZAPATA_GITHUB_PERSONAL_ACCESS_TOKEN="532a7e4815f31c4c9f8420a5ce851ea16ef97df9"
 export ZMACHINE_WORKFLOW_PATH="$HOME/dev/zmachine/task-templates"
+
+export HISTCONTROL=ignoredups
+export CLICOLOR=230
+export GREP_COLOR='1;31' # green for matches
+export GREP_OPTIONS='--color=auto'
+
 export ZSH="/Users/mia/.oh-my-zsh"
-
-
 ZSH_THEME="robbyrussell"
 
 
@@ -21,20 +29,11 @@ plugins=(git)
 source $ZSH/oh-my-zsh.sh
 
 
-#################
-# EXPORT OPTIONS
-################
+##########
+# ALIAS ✨
+##########
 
-export GREP_OPTIONS='--color=auto'
-export GREP_COLOR='1;31' # green for matches
-export CLICOLOR=230
-export HISTCONTROL=ignoredups
-
-
-########
-# ALIAS
-#########
-
+alias fly="/usr/local/opt/fly"
 alias zshconfig="mate ~/.zshrc"
 alias ohmyzsh="mate ~/.oh-my-zsh"
 alias code="open -a 'Visual Studio Code'"
@@ -47,6 +46,9 @@ alias gp="git pull"
 alias k="kubectl"
 
 
+############
+# Scripts ✨
+############
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
