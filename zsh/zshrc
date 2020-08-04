@@ -16,10 +16,6 @@ export CUDA_HOME=/usr/local/cuda
 export DYLD_LIBRARY_PATH="$CUDA_HOME/lib:$DYLD_LIBRARY_PATH"
 export PATH="$CUDA_HOME/bin:$PATH"
 
-export GITHUB_PERSONAL_TOKEN=beeabd1761fba9e28d82cdabdf2aa0cfc29fe3d4
-export ZAPATA_GITHUB_PERSONAL_ACCESS_TOKEN="532a7e4815f31c4c9f8420a5ce851ea16ef97df9"
-export ZMACHINE_WORKFLOW_PATH="$HOME/dev/zmachine/task-templates"
-
 export HISTCONTROL=ignoredups
 export CLICOLOR=230
 export GREP_COLOR='1;31' # green for matches
@@ -72,7 +68,6 @@ else
 fi
 unset __conda_setup
 # <<< conda initialize <<<
-
 
 # The next line updates PATH for the Google Cloud SDK.
 if [ -f '/Users/mia/google-cloud-sdk/path.zsh.inc' ]; then . '/Users/mia/google-cloud-sdk/path.zsh.inc'; fi
