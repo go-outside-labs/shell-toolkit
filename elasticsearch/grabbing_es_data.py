@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import elasticsearch
 import whois
 import json
