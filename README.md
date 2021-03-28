@@ -1,4 +1,4 @@
-# My dotfiles, shell scripts, and other scripts 
+# Dotfiles, shell scripts, and other scripts 
 
 More than a decade of *nix systems...
 
