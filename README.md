@@ -1,6 +1,10 @@
-# Dotfiles, shell scripts, and other scripts 
+## dotfiles, shell scripts, and other scripts 
 
-More than a decade of *nix systems...
+<br>
+
+#### more than a decade of *nix systems...
+
+<br>
 
 * [bash scripts](https://github.com/bt3gl/Resources-Shell_Scripts_and_Dotfiles/tree/master/shell_scripts).
 * [awk](https://github.com/bt3gl/Resources-Shell_Scripts_and_Dotfiles/tree/master/awk).
@@ -18,9 +22,13 @@ More than a decade of *nix systems...
 * [ubuntu](https://github.com/bt3gl/Resources-Shell_Scripts_and_Dotfiles/tree/master/ubuntu).
 * [funny](https://github.com/bt3gl/Resources-Shell_Scripts_and_Dotfiles/tree/master/funny).
 
+<br>
+
 ---
 
-### References
+### references
 
-* [Google style guide for shell](https://github.com/google/styleguide/blob/gh-pages/shellguide.md).
+<br>
 
+* [google style guide for shell](https://github.com/google/styleguide/blob/gh-pages/shellguide.md).
+* [create a new ssh key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) and [add to github](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account).
