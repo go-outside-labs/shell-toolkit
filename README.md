@@ -2,7 +2,7 @@
 
 <br>
 
-### over a decade of *nix systems
+### decades of *nix 🐧
 
 <br>
 
