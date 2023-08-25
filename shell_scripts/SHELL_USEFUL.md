@@ -15,3 +15,6 @@ $ codesign -dvvv $file.app
 
 ## Show all the configs
 $ system_profiler -detaillevel full
+
+## 瑪麗
+$ convert -size 360x360 xc:white -font "FreeMono" -pointsize 12 -fill black -draw @ascii.txt
