@@ -1,6 +1,6 @@
 #!/bin/bash
 # This scripts creates PKI secrets
-# Author: Mia von Steinkirch
+# Author: Mia Stein
 
 DOMAIN=
 ACM_ENV=

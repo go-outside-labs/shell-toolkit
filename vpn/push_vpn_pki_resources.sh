@@ -1,6 +1,6 @@
 #!/bin/bash
 # This script pushes PKI certs to AWS ACM.
-# Author: Mia von Steinkirch
+# Author: Mia Stein
 
 ACM_ENV=
 DOMAIN=

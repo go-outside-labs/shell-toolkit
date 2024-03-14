@@ -2,7 +2,7 @@
 """
     Export data in a CSV spreadsheet.
 
-    Marina von Steinkirch - 2017
+    Mia Stein - 2017
 
     Need to have argparse installed:
     $ pip install argparse
